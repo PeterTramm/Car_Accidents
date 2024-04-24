@@ -1,0 +1,8 @@
+#Ignore .DS_store
+.DS_Store
+
+#Ignore Zip files 
+*.zip
+
+#Ignore ipynb_checkpoints
+.ipynb_checkpoints
