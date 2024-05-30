@@ -1,0 +1,10 @@
+ACCIDENT_TYPE,ACCIDENT_TYPE_DESC
+6,Vehicle overturned (no collision)
+4,Collision with a fixed object
+1,Collision with vehicle
+8,No collision and no object struck
+2,Struck Pedestrian
+3,Struck animal
+5,collision with some other object
+7,Fall from or in moving vehicle
+9,Other accident

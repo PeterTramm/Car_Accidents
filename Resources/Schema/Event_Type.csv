@@ -1,0 +1,11 @@
+EVENT_TYPE,EVENT_TYPE_DESC
+C,Collision
+3,Ran off carriageway
+2,Fell from vehicle
+1,Rollover on/off carriageway
+8,Other
+5,Struck by stone/projectile/load
+6,Fell in vehicle
+9,Not known
+4,Mechanical failure
+0,Not applicable

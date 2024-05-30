@@ -1,0 +1,10 @@
+ROAD_GEOMETRY,ROAD_GEOMETRY_DESC
+2,T intersection
+5,Not at intersection
+1,Cross intersection
+4,Multiple intersection
+9,Unknown
+3,Y intersection
+6,Dead end
+8,Private property
+7,Road closure
