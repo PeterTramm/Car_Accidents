@@ -34,10 +34,10 @@
 ## Project Plan 
 
 - [x] Upload the raw data. 
-- [ ] Inital look at data.
-- [ ] Idenitfy possible questions to answer. 
-- [ ] Identify what data to use. 
-- [ ] Database normalization
+- [x] Inital look at data.
+- [x] Idenitfy possible questions to answer. 
+- [x] Identify what data to use. 
+- [x] Database normalization
 - [ ] Create a Entity Relationship Diagram. 
 - [ ] Upload the data to pgAdmin. 
 - [ ] Query the data for answers. 
@@ -56,6 +56,6 @@
 > Not avaliable yet
 
 ## Acknowledgements 
-Data obtained from [Victoria Government](https://discover.data.vic.gov.au/dataset/victoria-road-crash-data)
+Data obtained from [Victoria Government](https://discover.data.vic.gov.au/dataset/victoria-road-crash-data). Obtain on 24/04/2024
 
 
