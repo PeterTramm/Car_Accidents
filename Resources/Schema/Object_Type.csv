@@ -1,0 +1,30 @@
+OBJECT_TYPE,OBJECT_TYPE_DESC
+99,Not Applicable
+6,Traffic sign (no parking/no standing)
+2,Tree (shrub/scrub)
+36,Kangaroo (include wallaby)
+3,Fence/Wall (including gates)
+7,Guard Rail
+4,Embankment
+10,Other Fixed (railway furniture/culvert/telephone box etc)
+9,Building
+8,Fire Hydrant
+12,Traffic signal(traffic lights)
+1,Pole (telphone/electricity)
+32,Cattle (includes steer/beasts/cows)
+17,Traffic island
+13,Bridge (off path)
+5,Guide post (including Km post)
+21,Bridge (on path - see 13)
+31,Tame animal (cats and dogs etc)
+34,Horse (not ridden)
+38,Wild animal (include birds)
+33,Sheep
+24,Safety zone (eg. tram safety zone)
+23,Roadworks (dirt/sign/barrier/excavation)
+11,Not Known
+37,Wombat
+30,Kerb (if it is protruding)
+35,Other tame animals
+14,Barrier (road closure)
+39,Unknown Animal

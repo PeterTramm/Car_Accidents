@@ -1,0 +1,9 @@
+ROAD_USER_TYPE,ROAD_USER_TYPE_DESC
+2,Drivers
+3,Passengers
+4,Motorcyclists
+9,Not Known
+1,Pedestrians
+6,Bicyclists
+8,Passengers
+5,Pillion Passengers

@@ -1,0 +1,29 @@
+VEHICLE_TYPE,VEHICLE_TYPE_DESC
+1,Car
+2,Station Wagon
+3,Taxi
+13,Bicycle
+10,Motor Cycle
+4,Utility
+5,Panel Van
+60,Prime Mover Only
+72,Heavy Vehicle (Rigid) > 4.5 Tonnes
+99,Not Known
+71,Light Commercial Vehicle (Rigid) <= 4.5 Tonnes GVM
+62,Prime Mover B-Double
+17,Other Vehicle
+11,Moped
+12,Motor Scooter
+61,Prime Mover - Single Trailer
+15,Tram
+8,Bus/Coach
+9,Mini Bus(9-13 seats)
+16,Train
+27,Plant machinery and Agricultural equipment
+18,Not Applicable
+20,Quad Bike
+19,Parked trailers
+63,Prime Mover B-Triple
+14,Horse (ridden or drawn)
+6,Prime Mover (No of Trailers Unknown)
+7,Rigid Truck(Weight Unknown)

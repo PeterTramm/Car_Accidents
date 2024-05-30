@@ -1,0 +1,113 @@
+SUB_DCA_CODE,SUB_DCA_CODE_DESC
+NRQ,Not Required
+L04,Road curved at mid-block
+N01,Intersection
+Q04,Embankments
+Q06,Traffic signs (No parking No standing etc)
+A02,Vehicle leaving intersection
+L03,Road straight at mid-block
+I05,Not known
+V03,Traffic island mounted/struck
+R03,Centre of road parking - angle
+Q36,Animals - Kangaroo or Wallaby
+Q34,Animals - Horse (not ridden)
+G02,Vehicle moving foward - out of control
+A01,Vehicle entering intersection
+R02,Kerb parking - parallel
+N02,Mid-block
+Z06,On exit ramp
+M01,Vehicle turning through medianopening
+G03,Vehicle moving back - under control
+Q24,Safety zone (i.e. Tram safety zone)
+Z08,Freeway/freeway interchange
+K01,Median
+Q13,Bridge(When it is NOT on path)
+Q23,Roadworks (Dirt sign/barrier/excavation)
+B04,Vehicle reversing
+V01,No vehicle mounted/struck
+Q01,Poles (telephone/electricity)
+L01,Road straight at intersection
+Z09,At local rd I/S or M/B with RRP/RS spanning part of freeway
+S03,On footpath
+F03,Footpath unknown
+F04,Not on Footpath
+J02,Alighting
+E05,Pedestrian working/pushing or working on vehicle
+C02,Pedestrian stepped off safety zone/tram shelter
+Q08,Fire hydrant
+Q11,Object hit not known
+V06,Separation mounted/struck
+Q37,Animals - Wombat
+B01,Vehicle going straight through
+Q09,Buildings
+Q07,Guard rail
+V05,Median mounted/struck
+D01,Pedestrian emerged from behind car etc
+Q32,Animals - Cattle
+Q12,Traffic signals(i.e.Traffic lights)
+I01,Private driveway/laneway
+B03,Vehicle turning left
+H03,Vehicle foward departing
+Z07,At exit ramp/local road intersection
+A04,Vehicle in left turn slip lane
+V07,Roundabout mounted/struck
+R05,Parking offroad/footpath
+Z05,At freeway/exit ramp (vehicle about to leave freeway)
+Q02,Tree (shrub/scrub)
+V02,Kerb(roadside) mounted/struck
+Y01,Any vehicle (include trailer or parked car)
+Q21,Bridge (When it is ON path - see 1)
+F02,Paved footpath
+Q03,Fences (including gates)
+Z01,On freeway (between interchanges)
+I04,Commercial(includes shops/school/station) driveway
+S02,Collision on second half of carriageway
+S01,Collision on first half of carriageway
+X02,Fell from vehicle
+A03,Vehicle within intersection
+P02,Hit by veh fr dir opposite to initial dir of U-turning veh
+I06,Laneway
+G01,Vehicle moving foward - under control
+C01,Pedestrian stepped off median strip
+E03,Pedestrian lying
+Q17,Traffic island
+Q38,Animals - Other wild animal orbird
+Q33,Animals - Sheep
+I02,Hotel/motel/hostel driveway or laneway
+R04,Centre of road parking - parallel
+D07,Pedestrian emerged from behindvehicle not known
+H01,Vehicle foward entering
+W02,Leaves carriageway to right
+P01,Hit by veh from same dir as initial dir of U-turning veh
+H04,Vehicle reverse departing
+J01,Boarding
+B02,Vehicle turning right
+E04,Pedestrian standing
+X01,Fell in vehicle
+Z04,At entrance ramp/freeway
+Z02,At entrance ramp/local road intersection
+D04,Pedestrian emerged from behindtram
+Q31,Animals - Domestic (Cats and Dogs)
+D02,Pedestrian emerged from behindtruck
+E06,Pedestrian activity not known
+K02,Other separator
+Q05,Guide posts (including km/posts)
+W01,Leaves carriageway to left
+Q10,Other objects (Telephone/Culvert/RX) Fixed/Not Fixed
+L02,Road curved at intersection
+R01,Kerb parking - angle
+Z03,On entrance ramp
+D03,Pedestrian emerged from behindbus
+V04,Safety zone mounted/struck
+D06,Pedestrian emerged from behindother vehicles
+U01,Opposing direction vehicle present
+H02,Vehicle reverse entering
+O01,Parked vehicle causes vehicle to change lanes
+Q35,Animals - Other tame animals
+I03,Factory(including loading bays) driveway/laneway
+Q30,Protruding kerb
+F01,No paved footpath
+E01,Pedestrian playing
+Q39,Unknown animals
+G04,Vehicle moving back - out of control
+Q14,Barriers (Road Closure)
