@@ -38,7 +38,8 @@
 - [x] Idenitfy possible questions to answer. 
 - [x] Identify what data to use. 
 - [x] Database normalization
-- [ ] Create a Entity Relationship Diagram. 
+- [x] Create a Entity Relationship Diagram. 
+- [ ] Create database and the necessary tables
 - [ ] Upload the data to pgAdmin. 
 - [ ] Query the data for answers. 
 - [ ] Create a Written report.
