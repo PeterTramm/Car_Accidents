@@ -1,63 +1,91 @@
-# Car_Accidents
+# Accident Data Analysis for Road Safety Improvement
 
-<div align="Center"><b>Looking into Victoria Road Crash data</b>
-</div>
+## Project Title
+Accident Data Analysis for Road Safety Improvement in Victoria
 
-<details align = "center">
-    <summary>Table of contents</summary>
-        <li>
-            <a href="#about-this-project"> About this Project</a></ul>
-        <li>
-            <a href="#project-plan"> Project Plan</a></ul>    
-        <li>
-            <a href="#project-display"> Project Display</a></ul>
-        <li>
-            <a href="#project-results"> Project Results</a></ul>
-        <li>
-            <a href="#Acknowledgements"> Acknowledgements</a></ul>
+## Project Manager
+Peter Tram
 
-</details>
+## Data Analyst
+Peter Tram
 
-# About this project 
+## Project Timeline
+- **Start Date:** 14/08/2024
+- **End Date:** 13/09/2024
 
-<div align = "center">
-    <ol> <b><i>Objective of Project</b></i>
-            <p> Create an SQL database of the different data tables provided and run queries to find insights from the data.</p>
-    <ol><b><i>Technical usages</b></i>
-            <br>
-            <img src = "https://img.shields.io/badge/Python-38EA10">
-            <img src = "https://img.shields.io/badge/SQL-104FEA">
+## Project Background
+SafeRoads Victoria aims to enhance road safety and reduce car accidents across Victoria. To achieve this goal, a comprehensive analysis of accident data is required to identify patterns, hotspots, and contributing factors. Insights from this analysis will inform targeted interventions, policy changes, and the implementation of advanced safety technologies.
 
+## Project Objectives
+1. To analyze historical accident data to identify trends and patterns.
+2. To pinpoint high-risk areas and times for car accidents.
+3. To understand the key causes and contributing factors of accidents.
+4. To develop actionable recommendations to reduce the incidence of car accidents.
+5. To present findings in a clear, actionable, and engaging manner to stakeholders.
 
-</div>
+## Scope of Work
+1. **Data Collection:**
+   - Gather accident data from various sources, including government reports, police records, and telematics data.
+   - Ensure data quality and completeness.
+   
+2. **Data Analysis:**
+   - Perform temporal analysis to identify trends over time.
+   - Conduct geospatial analysis to locate accident hotspots.
+   - Analyze causes and contributing factors.
+   - Perform demographic analysis to identify vulnerable groups.
 
-## Project Plan 
+3. **Visualization and Reporting:**
+   - Create visualizations such as heat maps, bar graphs, and pie charts.
+   - Develop an interactive dashboard for stakeholders.
+   - Compile a comprehensive report detailing findings, visualizations, and recommendations.
+   - Prepare a concise slide deck for presenting key insights.
 
-- [x] Upload the raw data. 
-- [x] Inital look at data.
-- [x] Idenitfy possible questions to answer. 
-- [x] Identify what data to use. 
-- [x] Database normalization
-- [x] Create a Entity Relationship Diagram. 
-- [x] Create database and the necessary tables
-- [x] Upload the data to pgAdmin. 
-- [x] Query the data for answers. 
-- [ ] Dive Deeper into the data [Optional]
-- [ ] Create a Written report.
+4. **Recommendations:**
+   - Develop targeted intervention strategies based on analysis.
+   - Suggest policy changes and safety measures.
+   - Propose the implementation of technology solutions for road safety.
 
-## [Project Display]()
+## Deliverables
+1. **Data Analysis Report:**
+   - Detailed written report with findings, visualizations, and recommendations.
+   
+2. **Interactive Dashboard:**
+   - An online tool for stakeholders to explore the data and insights.
+   
+3. **Slide Deck:**
+   - A presentation summarizing key findings and recommendations for quick communication to stakeholders.
 
-> Not avaliable yet
-<!-- Display image of project -->
-<!-- <img src=""/> -->
+4. **Raw Data and Methodology Documentation:**
+   - Datasets used for analysis and documentation of methodologies.
 
-## Project Results 
-> Not avaliable yet
+## Project Timeline
 
-## Data Info
-> Not avaliable yet
+| Milestone                         | Target Date    |
+|-----------------------------------|----------------|
+| Project Kickoff                   | 14/08/2024   |
+| Data Collection Complete          | [Date]         |
+| Initial Analysis                  | [Date]         |
+| Visualization Development         | [Date]         |
+| Draft Report Submission           | [Date]         |
+| Final Report and Dashboard Launch | 13/09/2024     |
 
-## Acknowledgements 
-Data obtained from [Victoria Government](https://discover.data.vic.gov.au/dataset/victoria-road-crash-data). Obtain on 24/04/2024
+## Success Criteria
+- Completion of a comprehensive accident data analysis report.
+- Development of an interactive dashboard for stakeholders.
+- Clear, actionable recommendations to reduce car accidents.
+- Positive feedback from stakeholders on the quality and usability of the insights.
 
+## Budget
+- $0 
+
+## Key Stakeholders
+- Government Agencies and Local Authorities
+- Law Enforcement Agencies
+- Community Organizations and Schools
+- General Public
+
+## Risk Management
+- **Data Quality Issues:** Ensure thorough data validation and cleaning processes.
+- **Timeline Delays:** Regular progress reviews and agile project management practices to stay on track.
+- **Stakeholder Engagement:** Maintain regular communication with stakeholders to ensure alignment and address concerns promptly.
 
